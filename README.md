@@ -10,4 +10,8 @@ change
 
 1
 
+<<<<<<< HEAD
 master
+=======
+master
+>>>>>>> dev
